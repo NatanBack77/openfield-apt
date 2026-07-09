@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Openfield
+Label: Openfield
+Codename: stable
+Date: Thu, 09 Jul 2026 14:23:06 UTC
+Architectures: amd64
+Components: main
+Description: Openfield APT repository
+MD5Sum:
+ 9c7f1183218f322bf9217b2ed0832024 673 main/binary-amd64/Packages
+ f733d460290eb7dd632adba1629dce03 476 main/binary-amd64/Packages.gz
+ 2391b02517a6a2566a4df34e86368e9c 109 main/binary-amd64/Release
+SHA1:
+ 1fe2d074ab73fd1541850dbb61f25645657d29e4 673 main/binary-amd64/Packages
+ 1c009d6157ab5dab5609cf1fb8fcfccf1a398b67 476 main/binary-amd64/Packages.gz
+ 660decc2afe28c1953c63f66324de2e6633d17e0 109 main/binary-amd64/Release
+SHA256:
+ f6700d40ed426a17279b59abed4ad511e6ea47efd39c68c369cc89a6f7489740 673 main/binary-amd64/Packages
+ 710ff0e1406af428e05329c897f8e86ae42c732e87b3173c440773869a62e671 476 main/binary-amd64/Packages.gz
+ a453a82ce3a41a2cf32d24ed72716c9fb36d41d2d824a6352d236f9bc6430fa3 109 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEETCCGdA6o4qu1FoTpbCd7SB8IS9cFAmpPrsoACgkQbCd7SB8I
+S9fsIxAAz/gkH7HJ3Swd/2jXulHbDND6KsyCHCsM4wxlNNP56DsmghrcsIZRdRKh
+2P+f2OvmxRqIicXCp92DJGXcOnaO9/TFo2ncZ2VETgo1pH0SMkiZswuoCvLqI5F0
+tow1CoxnP5A5gsv78OJAI5pscV4mS9OqLWV5fxu6Vb+ngGSnnpNcG10LOYw/fJ40
+P2lBy20ly6gSJj6oEtQv124eWhBSx8Ml4ZR92vy/t69wAsc3dsTo7P0nkBg84OJx
+ac6dZtoafw7wREkw1qq1mrvWJ2NHy23muLFXFNq8/W+5nFM/1B1d6fCSmIRQT4+Q
+bYrrzuc0RkV/jY3EuV1XXZtndOe+ogUBTZsT1MJRC4yZr839JT3zBV7xiGjTQjdC
+gLk2nJ+H1qUcq5Kkh8qCGl0Fur3mrkBoaNskFte5nvZGf4/RXjazM1s/YM14d8jq
+srrFcEugD2PiIU6tkjgbXNiZcj1ARfotiDD9b71I6bh44r7DYHdAex92HzhHvjkK
+4FgZL5M7znhfTbLWdk1CjbQBIvvxuQ4LVU0piXKd4cQjFld+wexdG9a8lRg1LnjN
+aqmit7PgZfDeOSE/Z6gqmzGOQzYY4hsqPZ22RENTBmeKMIhdG+zyJUcXqM8EXfI7
+sg53c4D1XDNB3ajFlWWSntPwCKt1KbiUio/uB2dlOojnpNhH9mY=
+=2I9V
+-----END PGP SIGNATURE-----

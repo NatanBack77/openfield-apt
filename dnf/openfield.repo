@@ -1,0 +1,6 @@
+[openfield]
+name=Openfield
+baseurl=https://natanback77.github.io/openfield-apt/dnf/x86_64
+enabled=1
+gpgcheck=1
+gpgkey=https://natanback77.github.io/openfield-apt/openfield.gpg.asc

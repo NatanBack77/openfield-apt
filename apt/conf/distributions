@@ -1,0 +1,7 @@
+Origin: Openfield
+Label: Openfield
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Openfield APT repository
+SignWith: 6C277B481F084BD7
