@@ -1,5 +1,5 @@
 Package: openfield
-Version: 0.1.16
+Version: 0.1.17
 Architecture: amd64
 Maintainer: Natan <natanaelmarcelinodasilvavieira@gmail.com>
 Installed-Size: 30136
@@ -7,11 +7,11 @@ Depends: libwebkit2gtk-4.1-0, libgtk-3-0
 Homepage: https://github.com/NatanBack77/openfield-releases
 Priority: optional
 Section: devel
-Filename: pool/main/o/openfield/openfield_0.1.16_amd64.deb
-Size: 11347100
-SHA256: 3baf5ec1f56a6600b404e81df9e14988498585242d2d278c41ec9b0f95d83683
-SHA1: a61d032af1f782e76a93c64b0d4741b8d15ef292
-MD5sum: ecbf9b9157512c8fdccc9ce1c35391a2
+Filename: pool/main/o/openfield/openfield_0.1.17_amd64.deb
+Size: 11347034
+SHA256: 9331991c4ed6659b7dadad34d4d73c83df01fdb7a61356d699312953663ebcd0
+SHA1: 4b6464e47e91045241c00ac823143b92744af7f0
+MD5sum: 4ea432ebaf4079016627fb0f7efea524
 Description: Multi-agent PTY orchestration canvas. Spawn terminals (claude, aider,
  shells) on a React Flow canvas and wire them together for agent
  orchestration.
