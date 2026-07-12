@@ -1,19 +1,19 @@
 Origin: Openfield
 Label: Openfield
 Codename: stable
-Date: Sat, 11 Jul 2026 22:41:03 UTC
+Date: Sun, 12 Jul 2026 23:08:46 UTC
 Architectures: amd64
 Components: main
 Description: Openfield APT repository
 MD5Sum:
- 7de4d0fbec1957bb3f71e582393c63b6 673 main/binary-amd64/Packages
- c3282d6b7b0b0eefaa83f05d03d67c06 480 main/binary-amd64/Packages.gz
+ 321b9e8da67b69068d4a458739ff89ce 673 main/binary-amd64/Packages
+ e12a7e02e5a18a201d1686b2342e31ed 481 main/binary-amd64/Packages.gz
  2391b02517a6a2566a4df34e86368e9c 109 main/binary-amd64/Release
 SHA1:
- 895a9b6d6788a88724f53fa4ee31365a44ff0a30 673 main/binary-amd64/Packages
- bbfaf6212a53cd6c36ac0b7bdffa95506a75844c 480 main/binary-amd64/Packages.gz
+ 9d455bf010051f258d567f3be67c26ab4dabc151 673 main/binary-amd64/Packages
+ ac7f16d2259662007cb9e411b118691698617970 481 main/binary-amd64/Packages.gz
  660decc2afe28c1953c63f66324de2e6633d17e0 109 main/binary-amd64/Release
 SHA256:
- 6b5e30e678612520599939485fc65b1d7785b86a26d221202861b0b89fe9dc21 673 main/binary-amd64/Packages
- 73a0425fc09394d95899e004faaf118740404ae8aa3d9ce6a5c4e1b06e10bb5f 480 main/binary-amd64/Packages.gz
+ cbe990a518550ddcda18146a0be74b4e659e33655f54cc6969eb0f1056399530 673 main/binary-amd64/Packages
+ bd8dbe7661e723be8fdcef02a834fa979a7e61360d277b2298673a9d7ea074bb 481 main/binary-amd64/Packages.gz
  a453a82ce3a41a2cf32d24ed72716c9fb36d41d2d824a6352d236f9bc6430fa3 109 main/binary-amd64/Release
