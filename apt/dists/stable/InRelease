@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: Openfield
 Label: Openfield
 Codename: stable
-Date: Wed, 15 Jul 2026 13:27:30 UTC
+Date: Wed, 15 Jul 2026 13:43:13 UTC
 Architectures: amd64
 Components: main
 Description: Openfield APT repository
 MD5Sum:
- b4c4154650ca76409c08eb00637060e0 673 main/binary-amd64/Packages
- 7d1cc644f411a5297bb78a5bdde241e4 482 main/binary-amd64/Packages.gz
+ 050d1d641ca81ec068b29267a01b5c9d 673 main/binary-amd64/Packages
+ 7d17478cd4210ef806ad93efbba488da 480 main/binary-amd64/Packages.gz
  2391b02517a6a2566a4df34e86368e9c 109 main/binary-amd64/Release
 SHA1:
- 96927b6f0bf440c92cc86774b4e835cb206e69bc 673 main/binary-amd64/Packages
- 998259c2e54e24b9ab54eb97982348ea15bc9858 482 main/binary-amd64/Packages.gz
+ 76ccc15132cb06f1777d37be2771db07221c2893 673 main/binary-amd64/Packages
+ 0062a400128c3b81922488b3c19732420e8adc7c 480 main/binary-amd64/Packages.gz
  660decc2afe28c1953c63f66324de2e6633d17e0 109 main/binary-amd64/Release
 SHA256:
- 33ed59d00349fdc5e5e6788e69cb822495b6f219f60e836d34b6a4fbcdb8acee 673 main/binary-amd64/Packages
- a731f27449b7616ff3f74808a919351b95482f7f8d3b8f18b4ab57ce3d976777 482 main/binary-amd64/Packages.gz
+ 4a62e2afef956a7eedfb294e57a921deeb392417fd19472d6ab6cc563f2f4e2e 673 main/binary-amd64/Packages
+ 5fe51830c2acf99a6e0345c32724716851b6066edb0105c1ccf8e74429823485 480 main/binary-amd64/Packages.gz
  a453a82ce3a41a2cf32d24ed72716c9fb36d41d2d824a6352d236f9bc6430fa3 109 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEETCCGdA6o4qu1FoTpbCd7SB8IS9cFAmpXisIACgkQbCd7SB8I
-S9cMaw/9FZ1T9K6xB1rcqxWmSc0Uj3Pco1HJ4JGxnINC0XL9LkU5wOhYUhechW74
-AjEPSnnBIWCjJqj3j1kOiFZ1j6HeuiA7LUAykRDxIZGKxBBgtMXEYURISUVo86ps
-17uY/9AAgEDII9Z0sBdKJ6jIebq8o5KJOEVvgP/z9+AW/3NCkhRHDOuOjem6QGq5
-fjRMYiMCcEq+gzdLIkWbvxBzwrgk9p3Vg/EvG+2gOs12R0cA0SjUYHHcBq1DcDZ1
-eUS4/7S/avuUTKtycJ5kU005brhCRJVFTax9HWDb6Mere+cf8Utd0qjeNLI3aV9z
-ldRLz+ZgUotMX7C4x8FRMScdDSH1QI+z3zn1E2ukiGdAxbd5TH5j8z6oc5WTqvXT
-0MArlkQYcpI+TntqsCRSaF24slZdfYMscLSKym0Up3ZbgL30kyQDh+fZwahTT7m8
-fY/AoBx+r3H4kbzMlvWGvE/mtBs/j/xC8VyeN81LN9iRIj770nFzVDZVdpOG1J3S
-AmhqmlrwQYUgquiTZRyHeCqANF8y7wKLTjFWmKbh7skpPLqn0/0s6zcfV0pDPKxG
-BDLNFjzuUT3PcmiUIpIncqMHUzAaIO7hNzOMafktSXLM3yNwO8z+YiQv2+nRz1u5
-JLlzJq7WEvOeBZjHML010lmrjBEMDYm0MEgtN6n8c1U45Vm7owE=
-=xP8m
+iQIzBAEBCgAdFiEETCCGdA6o4qu1FoTpbCd7SB8IS9cFAmpXjnEACgkQbCd7SB8I
+S9eYwQ/+Ok6v6BiBEZLTyJvNZX9c+hHtNEnp/1Q8MzPoTTQN1uXVNp/AuK8WaB/b
+t1OkOAuvgC/XYCZCjYDLpOF5N8hwiG7WH53Y+qxUS+tZRWzkoXlxFBcxUSzJvACB
+liRVP7inu+yKqOyVvx911PzohjKvX2s29GaQ44miGENucGIPK3sNXOif/Z/bGTrQ
+yyiuHXpFwLeKeJXj62Vq2rAWeSBGBUsPqQZMINM+gsA9fm4SgF6EqGP1bZ4pIUOZ
+tPfobQzPFq5Sh1FLMJxftow6ZPV7LChQbBzTFSRP+d/dzqGzxCDefjQTiNtCrowv
+jYL7ejqtXm9cagA2pt8MM53V6N6ssjx0mp/hmAycJLjmtnFpynWHGI0kTAAnor9p
+U7I8LgcKKgD5QkPlbVDwsnnjcznepR3GFkvGCi3ZnMgLnzwzx2B2vd2RnihX/k39
+gxlLts3sPQW/M3sZBLFUFpheIgbdW2/UF3X4qt3qWBfVk6SrhtMtGR53XQZFBmBY
+wa4mWQJbue4zLk8s4WmfnHYH2JQAv1ky3X62BYd59/mP6a8jiYFivht7f4lHx8oV
+UXY0zCEGysLt4TEMlZKqkxCBdYnUIqRYhvmuJXCEtvJXIiEhWNs7MsxpaaiOoTtf
+I9dn6sj1r07TOYJD53IcA68nrZszK2sTEI+8qD92WyeBN7XGADk=
+=HzOk
 -----END PGP SIGNATURE-----
