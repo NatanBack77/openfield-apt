@@ -1,19 +1,19 @@
 Package: openfield
-Version: 0.1.71
+Version: 0.1.72
 Architecture: amd64
 License: Proprietary
 Maintainer: Natan <natanaelmarcelinodasilvavieira@gmail.com>
-Installed-Size: 35339
+Installed-Size: 35355
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
 Homepage: https://github.com/NatanBack77/openfield-releases
 Priority: optional
 Section: devel
-Filename: pool/main/o/openfield/openfield_0.1.71_amd64.deb
-Size: 13150872
-SHA512: 5c8f0190be4739746422296320b498ade326be42bff12e7859bef0c8d3b95a62eb957c1a059f046bc0654934b12932f1bf5bf48330a671db608ada85ff84a45c
-SHA256: e231de9eb3d49834b73846b8e20faec8f39069ba31a91f92b3d685a9a71fce38
-SHA1: 33826226fbd8440b6dd91c1c5858a1111412cc7e
-MD5sum: f5399915c2d2f87721af9fb5c743c5f6
+Filename: pool/main/o/openfield/openfield_0.1.72_amd64.deb
+Size: 13154736
+SHA512: cf637eba3f469aa2b925ebf1fe6c69d3289b4c3428c9f775a2370cab17523e372d288fd72b23c032551c17f14b78245a08ec485435ce02b4ac4d173b2528ad08
+SHA256: a8f214a248b1efef1937cb80312adeeead181c462e8890731bcb88ed8f28a35d
+SHA1: 22055204ea115e4e3d5ce7fca16c968a60002239
+MD5sum: a945dc159dad6b14a999a3bfd53207b3
 Description: Multi-agent PTY orchestration canvas. Spawn terminals (claude, aider,
  shells) on a React Flow canvas and wire them together for agent
  orchestration.
