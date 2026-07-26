@@ -1,23 +1,23 @@
 Origin: Openfield
 Label: Openfield
 Codename: stable
-Date: Sun, 26 Jul 2026 00:46:48 UTC
+Date: Sun, 26 Jul 2026 01:04:08 UTC
 Architectures: amd64
 Components: main
 Description: Openfield APT repository
 MD5Sum:
- 203196a6e3be5bdc6aa4b73da80d386b 829 main/binary-amd64/Packages
- e1d705bf70093858f6fa34090fe116aa 577 main/binary-amd64/Packages.gz
+ c8c80940e1cdfff82b9ec9c7559e2685 829 main/binary-amd64/Packages
+ a81bf2a8baf6153548d16fdd84366a07 579 main/binary-amd64/Packages.gz
  2391b02517a6a2566a4df34e86368e9c 109 main/binary-amd64/Release
 SHA1:
- 7f2d7231d35c4f43276a74d323dbed64b238f43e 829 main/binary-amd64/Packages
- beeb8e3e20820226d96bde518f5ff0165354be0e 577 main/binary-amd64/Packages.gz
+ 62a7d2e5c38028645745dd3f46544eb16932165f 829 main/binary-amd64/Packages
+ 253e4c88439c12297d41065ef4e1f28d20a310e3 579 main/binary-amd64/Packages.gz
  660decc2afe28c1953c63f66324de2e6633d17e0 109 main/binary-amd64/Release
 SHA256:
- f274ee78fe7582f80470c72e0241a436af7975fb12fffaa5dc51e35a3148ac62 829 main/binary-amd64/Packages
- ae6959003c6dd994418fb6e41d56cafab9494d964b30078d7345134327332b78 577 main/binary-amd64/Packages.gz
+ fbe5a8898fc983ee71181098f124b8f4a20d086c447041795f08ee8ca7f5c9ed 829 main/binary-amd64/Packages
+ ff99e925609baadbb7ec8d32a44e72438d9e7d85d1e04ed0d19ab23804d1c368 579 main/binary-amd64/Packages.gz
  a453a82ce3a41a2cf32d24ed72716c9fb36d41d2d824a6352d236f9bc6430fa3 109 main/binary-amd64/Release
 SHA512:
- 99fa00da957ef5f115fcd41bcb0fb440585adbd2e330788f1d60ab53ebb19e134d3dc743889433a2a74a36d00bd378b9b2c6b58038ded093bd36d24f58020c65 829 main/binary-amd64/Packages
- 972dd9f3cda21af44a86c275dc667baa032ba2afa80977fc54cf0267b902e3ab41a60dbf8d74a45e4929376b386b5a8824bc10290c504911b7ed471717c09a63 577 main/binary-amd64/Packages.gz
+ 18737751e245cfb5bb264c9320d7aecc564153f15aac7b5ade1a0c6270bf54fe529a4fa39d9803e26d4acd8343581e9da3f7b4ed4a825f95f501017989ceb4a5 829 main/binary-amd64/Packages
+ 71aa818013769c41c3fcef2a83ec40c3800972d414ac864780471a211ef59de5ae0c4ee4da3db40a0b5882e50302e0064b5564c1e7bfe51bd2d43859136ddd86 579 main/binary-amd64/Packages.gz
  da6ae4f8963c59438af1a095d956629fa8514c542aa0c26109e2951c27e0cec4d42eeef9047d47e5f9d17cbaf9aef5d7479baa042c21db5b5e2e07013a8c345a 109 main/binary-amd64/Release
